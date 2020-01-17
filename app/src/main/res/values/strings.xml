@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LMM</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="title_activity_lmm_login">lmm_login</string>
+    <string name="title_activity_lmm_profile">lmm_profile</string>
+</resources>
